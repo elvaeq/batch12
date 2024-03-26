@@ -1,0 +1,4 @@
+#  This command is used to initialise git repository in my local directory
+
+git init
+
